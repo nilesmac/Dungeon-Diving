@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: f555f5615c327d54f8d3b0565776cd55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7881312382611437180
+    second: pouch with gold_0
+  - first:
+      213: -6511712940932014564
+    second: pouch with gold_1
+  - first:
+      213: -7907683553139402661
+    second: pouch with gold_2
+  - first:
+      213: 4674404771927267330
+    second: pouch with gold_3
+  - first:
+      213: 2084234105507121049
+    second: pouch with gold_4
+  - first:
+      213: -5095273196282207606
+    second: pouch with gold_5
+  - first:
+      213: 4655825217638280805
+    second: pouch with gold_6
+  - first:
+      213: 3706552839555374575
+    second: pouch with gold_7
+  - first:
+      213: -2745396990953644331
+    second: pouch with gold_8
+  - first:
+      213: -5415118473423000168
+    second: pouch with gold_9
+  - first:
+      213: -3777710840098479000
+    second: pouch with gold_10
+  - first:
+      213: -1509221310586722924
+    second: pouch with gold_11
+  - first:
+      213: 4944037130439657350
+    second: pouch with gold_12
+  - first:
+      213: -6698087001869414441
+    second: pouch with gold_13
+  - first:
+      213: -7366879879307214085
+    second: pouch with gold_14
+  - first:
+      213: -3443336188357869440
+    second: pouch with gold_15
+  - first:
+      213: -6060038366751602814
+    second: pouch with gold_16
+  - first:
+      213: 1432937599691746617
+    second: pouch with gold_17
+  - first:
+      213: -5274721674724857035
+    second: pouch with gold_18
+  - first:
+      213: 3216719631978006783
+    second: pouch with gold_19
+  - first:
+      213: 3357417587856305509
+    second: pouch with gold_20
+  - first:
+      213: -7771309617801025700
+    second: pouch with gold_21
+  - first:
+      213: -9000090126589994051
+    second: pouch with gold_22
+  - first:
+      213: 6870011187972542607
+    second: pouch with gold_23
+  - first:
+      213: 7085021280324414232
+    second: pouch with gold_24
+  - first:
+      213: -5941208663132758917
+    second: pouch with gold_25
+  - first:
+      213: -3946571873669193176
+    second: pouch with gold_26
+  - first:
+      213: 3320049368209083174
+    second: pouch with gold_27
+  - first:
+      213: -3601271986975298829
+    second: pouch with gold_28
+  - first:
+      213: 697813542375810744
+    second: pouch with gold_29
+  - first:
+      213: 7305230550664940374
+    second: pouch with gold_30
+  - first:
+      213: 458137912600986755
+    second: pouch with gold_31
+  - first:
+      213: -992486123641774871
+    second: pouch with gold_32
+  - first:
+      213: -8645774428448640966
+    second: pouch with gold_33
+  - first:
+      213: 5340758895348651385
+    second: pouch with gold_34
+  - first:
+      213: 2377014488740699479
+    second: pouch with gold_35
+  - first:
+      213: -3226899236682533850
+    second: pouch with gold_36
+  - first:
+      213: -2186653375362495430
+    second: pouch with gold_37
+  - first:
+      213: 2716224459294895945
+    second: pouch with gold_38
+  - first:
+      213: -4247322461742191860
+    second: pouch with gold_39
+  - first:
+      213: -1116977071869914149
+    second: pouch with gold_40
+  - first:
+      213: 8704643532027857487
+    second: pouch with gold_41
+  - first:
+      213: 5479761071244874744
+    second: pouch with gold_42
+  - first:
+      213: -7116428478383573958
+    second: pouch with gold_43
+  - first:
+      213: -3813573093738725516
+    second: pouch with gold_44
+  - first:
+      213: 481188051947135972
+    second: pouch with gold_45
+  - first:
+      213: -1898965702168733545
+    second: pouch with gold_46
+  - first:
+      213: -1362996855577823865
+    second: pouch with gold_47
+  - first:
+      213: 5334050249498738736
+    second: pouch with gold_48
+  - first:
+      213: 1308030307069868460
+    second: pouch with gold_49
+  - first:
+      213: -5843087127228153845
+    second: pouch with gold_50
+  - first:
+      213: 8498874455225514945
+    second: pouch with gold_51
+  - first:
+      213: -2058432646673731312
+    second: pouch with gold_52
+  - first:
+      213: -3210638660903424194
+    second: pouch with gold_53
+  - first:
+      213: 6978640859728179217
+    second: pouch with gold_54
+  - first:
+      213: -1766439323998350866
+    second: pouch with gold_55
+  - first:
+      213: 8831583602165294415
+    second: pouch with gold_56
+  - first:
+      213: -8835835614222040132
+    second: pouch with gold_57
+  - first:
+      213: 3291339246732551246
+    second: pouch with gold_58
+  - first:
+      213: 1755992719556962590
+    second: pouch with gold_59
+  - first:
+      213: 1603200541707693611
+    second: pouch with gold_60
+  - first:
+      213: 5733424946361928010
+    second: pouch with gold_61
+  - first:
+      213: 7004418811049848978
+    second: pouch with gold_62
+  - first:
+      213: -7873133701422059207
+    second: pouch with gold_63
+  - first:
+      213: 2585450798133248645
+    second: pouch with gold_64
+  - first:
+      213: -8492089771150734389
+    second: pouch with gold_65
+  - first:
+      213: 8013522492326818956
+    second: pouch with gold_66
+  - first:
+      213: 6796970581159285939
+    second: pouch with gold_67
+  - first:
+      213: 2083429137129063925
+    second: pouch with gold_68
+  - first:
+      213: 8819068280667511513
+    second: pouch with gold_69
+  - first:
+      213: 8643894376937997480
+    second: pouch with gold_70
+  - first:
+      213: 8605891216270898948
+    second: pouch with gold_71
+  - first:
+      213: -7015651703999682532
+    second: pouch with gold_72
+  - first:
+      213: -4119026687553919529
+    second: pouch with gold_73
+  - first:
+      213: -3529051628008839608
+    second: pouch with gold_74
+  - first:
+      213: -8465327452069318815
+    second: pouch with gold_75
+  - first:
+      213: 3226049742719883162
+    second: pouch with gold_76
+  - first:
+      213: 3448050568861046223
+    second: pouch with gold_77
+  - first:
+      213: 5534231562256374082
+    second: pouch with gold_78
+  - first:
+      213: 6994286914020973493
+    second: pouch with gold_79
+  - first:
+      213: -849753581266618395
+    second: pouch with gold_80
+  - first:
+      213: -5843199773093334343
+    second: pouch with gold_81
+  - first:
+      213: 8520340580424235377
+    second: pouch with gold_82
+  - first:
+      213: 5518489062183492617
+    second: pouch with gold_83
+  - first:
+      213: 1072162505461292065
+    second: pouch with gold_84
+  - first:
+      213: -8213855299940098318
+    second: pouch with gold_85
+  - first:
+      213: -7438476567319775891
+    second: pouch with gold_86
+  - first:
+      213: -2013035917159083622
+    second: pouch with gold_87
+  - first:
+      213: -8734103269126616660
+    second: pouch with gold_88
+  - first:
+      213: -1608396771170258933
+    second: pouch with gold_89
+  - first:
+      213: -5252940730017037100
+    second: pouch with gold_90
+  - first:
+      213: -6699600365537400156
+    second: pouch with gold_91
+  - first:
+      213: 5943351940434625435
+    second: pouch with gold_92
+  - first:
+      213: 6331228519542544587
+    second: pouch with gold_93
+  - first:
+      213: -8935807230806600861
+    second: pouch with gold_94
+  - first:
+      213: 707180587100852328
+    second: pouch with gold_95
+  - first:
+      213: 1368135738068646489
+    second: pouch with gold_96
+  - first:
+      213: 9113533494117410045
+    second: pouch with gold_97
+  - first:
+      213: -5041742070151502155
+    second: pouch with gold_98
+  - first:
+      213: -5220369260266641956
+    second: pouch with gold_99
+  - first:
+      213: 7561696488915080493
+    second: pouch with gold_100
+  - first:
+      213: -8059796564432915542
+    second: pouch with gold_101
+  - first:
+      213: -773035773261893839
+    second: pouch with gold_102
+  - first:
+      213: 9109632092695496193
+    second: pouch with gold_103
+  - first:
+      213: -4265644783730313899
+    second: pouch with gold_104
+  - first:
+      213: -54695121597787800
+    second: pouch with gold_105
+  - first:
+      213: -7211751458333074278
+    second: pouch with gold_106
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 459, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pouch with gold_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 473
+        width: 598
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c763171eadb006d60800000000000000
+      internalID: 7881312382611437180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

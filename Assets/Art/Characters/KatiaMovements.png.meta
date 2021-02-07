@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: 2a0ed516aef2a1a49b05fdf5f13a4c97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4335787865481721794
+    second: KatiaMovements_0
+  - first:
+      213: -7961875175745546901
+    second: KatiaMovements_1
+  - first:
+      213: -5235432284140110313
+    second: KatiaMovements_2
+  - first:
+      213: 635195797932727897
+    second: KatiaMovements_3
+  - first:
+      213: -7081675108838000733
+    second: KatiaMovements_4
+  - first:
+      213: 2930418120233029367
+    second: KatiaMovements_5
+  - first:
+      213: -2282273190764607900
+    second: KatiaMovements_6
+  - first:
+      213: -6349983832107349165
+    second: KatiaMovements_7
+  - first:
+      213: -6883059978632139546
+    second: KatiaMovements_8
+  - first:
+      213: 6675575042111033120
+    second: KatiaMovements_9
+  - first:
+      213: 6667734032812150036
+    second: KatiaMovements_10
+  - first:
+      213: -4005188553761602264
+    second: KatiaMovements_11
+  - first:
+      213: 9211210440729775318
+    second: KatiaMovements_12
+  - first:
+      213: -6311949199496971483
+    second: KatiaMovements_13
+  - first:
+      213: 4288131231397071721
+    second: KatiaMovements_14
+  - first:
+      213: 4037364773470894079
+    second: KatiaMovements_15
+  - first:
+      213: 2459181594616807185
+    second: KatiaMovements_16
+  - first:
+      213: -4266236485692474423
+    second: KatiaMovements_17
+  - first:
+      213: -4160446965481972024
+    second: KatiaMovements_18
+  - first:
+      213: 1984700452864967412
+    second: KatiaMovements_19
+  - first:
+      213: -447321094236899466
+    second: KatiaMovements_20
+  - first:
+      213: 2411617259873049417
+    second: KatiaMovements_21
+  - first:
+      213: -5529914760168669195
+    second: KatiaMovements_22
+  - first:
+      213: 867337696692808862
+    second: KatiaMovements_23
+  - first:
+      213: -8304251999316515235
+    second: KatiaMovements_24
+  - first:
+      213: 4629759109723932457
+    second: KatiaMovements_25
+  - first:
+      213: -174753829823993515
+    second: KatiaMovements_26
+  - first:
+      213: -3244215967650428970
+    second: KatiaMovements_27
+  - first:
+      213: 8039087810157855860
+    second: KatiaMovements_28
+  - first:
+      213: -3244933646705945012
+    second: KatiaMovements_29
+  - first:
+      213: 4623058494953844932
+    second: KatiaMovements_30
+  - first:
+      213: 3137098649570634961
+    second: KatiaMovements_31
+  - first:
+      213: 6910188419356674858
+    second: KatiaMovements_32
+  - first:
+      213: -4788206037530638060
+    second: KatiaMovements_33
+  - first:
+      213: 7159444399117443422
+    second: KatiaMovements_34
+  - first:
+      213: 3387307295984069229
+    second: KatiaMovements_35
+  - first:
+      213: 2857929740980406944
+    second: KatiaMovements_36
+  - first:
+      213: -8400754400492737630
+    second: KatiaMovements_37
+  - first:
+      213: 4818116480029905527
+    second: KatiaMovements_38
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KatiaMovements_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2234
+        width: 698
+        height: 1059
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7bc777710db2c30800000000000000
+      internalID: 4335787865481721794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2232
+        width: 702
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b659fa326bcb18190800000000000000
+      internalID: -7961875175745546901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_2
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2228
+        width: 709
+        height: 1043
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e773a73120857b0800000000000000
+      internalID: -5235432284140110313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_3
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 2228
+        width: 717
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ed99a763ba0d800800000000000000
+      internalID: 635195797932727897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2177
+        width: 700
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a73cf24206d8bd90800000000000000
+      internalID: -7081675108838000733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_5
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2177
+        width: 700
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe8bdb11cfeaa820800000000000000
+      internalID: 2930418120233029367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_6
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2177
+        width: 700
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466041000acb350e0800000000000000
+      internalID: -2282273190764607900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_7
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 2236
+        width: 771
+        height: 1059
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b84cd295350e7a0800000000000000
+      internalID: -6349983832107349165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_8
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2177
+        width: 700
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec6cedda657a70a0800000000000000
+      internalID: -6883059978632139546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_9
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 2177
+        width: 700
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fcd70d12864ac50800000000000000
+      internalID: 6675575042111033120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_10
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2177
+        width: 700
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d0d8296cc888c50800000000000000
+      internalID: 6667734032812150036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_11
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 2177
+        width: 700
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82544921b36ba68c0800000000000000
+      internalID: -4005188553761602264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_12
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 2177
+        width: 700
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc411fb71bc4df70800000000000000
+      internalID: 9211210440729775318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1130
+        width: 767
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bfbab25a37768a0800000000000000
+      internalID: -6311949199496971483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_14
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1137
+        width: 767
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b4eada2a0828b30800000000000000
+      internalID: 4288131231397071721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_15
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 977
+        width: 700
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7786fded9970830800000000000000
+      internalID: 4037364773470894079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_16
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1135
+        width: 767
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f305981a4c02220800000000000000
+      internalID: 2459181594616807185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_17
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1135
+        width: 767
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb3d7e05884bc4c0800000000000000
+      internalID: -4266236485692474423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_18
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 1127
+        width: 767
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce5893278f1346c0800000000000000
+      internalID: -4160446965481972024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_19
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 1136
+        width: 816
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2c296eb821b8b10800000000000000
+      internalID: 1984700452864967412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_20
+      rect:
+        serializedVersion: 2
+        x: 5237
+        y: 1136
+        width: 813
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6777875b5dbcac9f0800000000000000
+      internalID: -447321094236899466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_21
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 977
+        width: 700
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b1fecde19c77120800000000000000
+      internalID: 2411617259873049417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_22
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 1135
+        width: 796
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fff4f903dbc143b0800000000000000
+      internalID: -5529914760168669195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_23
+      rect:
+        serializedVersion: 2
+        x: 7325
+        y: 1132
+        width: 796
+        height: 934
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c2eaf2a07690c00800000000000000
+      internalID: 867337696692808862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_25
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 977
+        width: 700
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92749ba7165304040800000000000000
+      internalID: 4629759109723932457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2234
+        width: 698
+        height: 1059
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56696fedce51cc80800000000000000
+      internalID: -8304251999316515235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2234
+        width: 698
+        height: 1059
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a3325156239df0800000000000000
+      internalID: -174753829823993515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 622
+        height: 1050
+      alignment: 9
+      pivot: {x: 0.4951574, y: 0.4942626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7cb8914ca3af2d0800000000000000
+      internalID: -3244215967650428970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_28
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 13
+        width: 1077
+        height: 1020
+      alignment: 9
+      pivot: {x: 0.4951574, y: 0.4942626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474c1aa35c3909f60800000000000000
+      internalID: 8039087810157855860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_29
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 0
+        width: 1078
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46116c6a0ea7f2d0800000000000000
+      internalID: -3244933646705945012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_30
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 8
+        width: 1025
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c073970537682040800000000000000
+      internalID: 4623058494953844932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_31
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 2
+        width: 914
+        height: 1017
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dce309c996398b20800000000000000
+      internalID: 3137098649570634961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_32
+      rect:
+        serializedVersion: 2
+        x: 4830
+        y: 10
+        width: 1080
+        height: 1059
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bc5c271cbe5ef50800000000000000
+      internalID: 6910188419356674858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_33
+      rect:
+        serializedVersion: 2
+        x: 6026
+        y: 3
+        width: 1078
+        height: 1059
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4190b955affdc8db0800000000000000
+      internalID: -4788206037530638060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_34
+      rect:
+        serializedVersion: 2
+        x: 7222
+        y: 10
+        width: 1078
+        height: 1059
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e512e86afb47b5360800000000000000
+      internalID: 7159444399117443422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_35
+      rect:
+        serializedVersion: 2
+        x: 8405
+        y: 1
+        width: 1080
+        height: 1059
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a283af902220f20800000000000000
+      internalID: 3387307295984069229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatiaMovements_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 4563
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa492c15f769a720800000000000000
+      internalID: 2857929740980406944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
